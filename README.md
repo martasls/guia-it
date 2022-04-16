@@ -29,7 +29,7 @@ Por outro lado, numa abordagem agile, como o nome indica, o desenvolvimento de u
 
 Kanban – nesta abordagem as coisas não estão tão definidas. Há um desenvolvimento continuo sendo que as prioridades do projeto podem sofrer bastantes alterações. Parece um bocado que o projeto decorre ao sabor do vento.
 
-Scrum – há roles bem estabelecidos e o desenvolvimento acontece em sprints (por exemplo duas semanas). Um sprint inicia-se com o sprint planning e termina com o sprint review. Há vários momentos nesta abordagem explicados de seguida:
+Scrum – há roles bem estabelecidos e o desenvolvimento acontece em sprints (por exemplo duas semanas). Um sprint inicia-se com o sprint planning e termina com o sprint review. Há vários momentos nesta abordagem explicados de seguida.
 
 #### 🤝 Os vários momentos do Scrum
 
@@ -55,7 +55,7 @@ No decorrer da implementação de um produto há, normalmente, vários ambientes
 
 * Non production (disclaimer: isto pode ter outros nomes, mas é o nome que usamos no nosso projeto): Está entre o ambiente de desenvolvimento e de produção. Mais estável que o ambiente de desenvolvimento pois não sofre tantas alterações. É onde a maior parte da fase de testes ocorre.
 
-* Production: Ambiente final, previamente testado, usado pelos utilizadores finais.
+* Production: Ambiente final, em que a aplicação, previamente testada, é disponibilizada aos utilizadores finais.
 
 ### 👩‍💻 Palavras e expressões chave
 
