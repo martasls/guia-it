@@ -1,6 +1,6 @@
 ###### **v1.0.0**
 <p align="center">
-  <img src="https://i.gifer.com/4lKv.gif" alt="rosa"/>
+  <img src="https://s7.gifyu.com/images/4lKv.gif" alt="rosa"/>
 </p>
 
 ## 💻 O que é o IT
